@@ -23,8 +23,8 @@
     "Kyle Welsby <kyle@mekyle.com> (http://mekyle.com)"
   ],
   "dependencies": {
-    "istanbul": "~0.1.45",
-    "ibrik":  "git+https://github.com/HBOCodeLabs/ibrik.git#304cd84936d33cf38a05a1a4fe58c82d54ff6cfa",
+    "istanbul": "~0.2.4",
+    "ibrik":  "git+https://github.com/mainyaa/ibrik.git#update-dependencies",
     "dateformat": "~1.0.6"
   },
   "peerDependencies": {
